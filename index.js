@@ -6,8 +6,7 @@ const helloBabel = () => {
 helloBabel();
 
 // block scope
+// cannot access foo variable outside of block
 if(true){
   let foo = "bar";
 }
-
-console.log(foo); // foo is not defined error
