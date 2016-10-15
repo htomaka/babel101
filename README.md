@@ -1,5 +1,5 @@
 # babel101
-basic babel set-up with npm to compile **es2015** to **es5**
+Basic babel set-up with npm to compile **es2015** to **es5**
 
 ## Installation
 Run `npm install`
